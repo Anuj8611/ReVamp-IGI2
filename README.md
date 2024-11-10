@@ -4,3 +4,11 @@ RevampIGI2 is an all-in-one modding and reverse engineering tool for Project IGI
 
 ### Why ReVamp-IGI2?
 RevampIGI2 is designed to breathe new life into Project IGI 2, offering a versatile and powerful toolset for modders. Whether you’re a hobbyist looking to create custom levels, a developer aiming to tweak gameplay mechanics, or a community contributor sharing mods, RevampIGI2 provides everything you need to enhance and personalize your IGI 2 experience.
+
+## <ins>**File-Formats Supported**</ins>
+- IGI2 RES
++ IGI2 SPR
+* IGI2 TEX
+* IGI2 WAV
+* IGI2 FNT
+(more coming soon..)
