@@ -9,6 +9,6 @@ RevampIGI2 is designed to breathe new life into Project IGI 2, offering a versat
 - IGI2 RES
 + IGI2 SPR
 * IGI2 TEX
-* IGI2 WAV
-* IGI2 FNT
-(more coming soon..)
++ IGI2 WAV
+- IGI2 FNT
+* (more coming soon..)
